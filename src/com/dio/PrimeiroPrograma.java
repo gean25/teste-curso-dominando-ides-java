@@ -12,9 +12,6 @@ public class PrimeiroPrograma {
 		System.out.println(gato);
 		System.out.println(livro);
 		
-		/*int a = 5;
-		int b = 5;
-		System.out.println("Escola Bieja-Flor Nota: " + (a+b));*/
 	}
 }
 
